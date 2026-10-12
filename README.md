@@ -58,6 +58,8 @@ In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue
 [You can access the full license terms here.
 ](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/LICENSE)
 
+If a specific file has a license shown different than the terms expressed here, the terms of that license shall apply.
+
 ## Nintendo Intellectual Property Notice
 **Mario Kart Tour, Mario Kart, Super Mario, Mario, and all related characters, names, trademarks, logos, artwork, and other intellectual property are the property of Nintendo Co., Ltd. This project is an independent fan preservation effort and is not affiliated with, endorsed by, sponsored by, or connected to Nintendo.**
 
@@ -69,6 +71,13 @@ In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue
 
     No permission to copy, distribute, modify, or sublicense these contributions is granted by this notice. 
     Their inclusion in the repository does not constitute authorization for their distribution or use.
+
+## Videos and general documentation
+Notice! This license is not active for the project, but is staged for implementation
+
+    This work's videos and general documentation are licensed under 
+    Creative Commons Attribution-ShareAlike 4.0 International.
+    To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or see the LICENSE file.
 
 ## Code and associated documentation
 
@@ -86,3 +95,5 @@ In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue
     You should have received a copy of the GNU General Public License along
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+    To view a copy of this license, view the LICENSE file.
