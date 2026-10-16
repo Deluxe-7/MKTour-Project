@@ -50,6 +50,7 @@ Mario Kart Tour was a game downloaded to over [200 million devices.](https://web
 These are community links that the Preservation Project feels are of importance, but are not directly affiliated with the project.
 - [Open Letter to Nintendo](https://openletter.earth/an-open-letter-to-nintendo-preserve-mario-kart-tour-395dbdd7)
 - [Mario Kart Tour Community Discord](https://discord.gg/mario-kart-tour-community-604712560398434304)
+- [Mario Kart Central - Mario Kart Tour Discord](https://discord.gg/H3Nsdcn)
 - [GooglyBlox's MKT (Offline Modpack)](https://discord.gg/Sqg6wB2UBK)
 - [DokiTour (Online Modpack)](https://discord.com/channels/604712560398434304/1559699416322150400)
 
