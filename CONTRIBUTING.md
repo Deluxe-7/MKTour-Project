@@ -48,7 +48,7 @@ This is our official piracy notice, and it's included here as it is important. P
 # Intellectual Property and Licensing
 When you contribute code and that code's associated documentation, you retain full copyright over that code. However, you also must agree to license it under the GNU General Public License, Version 2 only. [See the LICENSE file for the full text.](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/LICENSE)
 
-For all other contributions, a license has not been decided as of yet, but will be soon. Any contribution you make that does not fall under "code and that code's associated documentation" will remain under your copyright. However, by contributing, you grant the preservation project the right to host and display your contribution. All other rights will remain with you. We would encourage you to release your contribution under the license chosen by the project when that time arises, but that will be under your discression.
+When you contribute a video, asset not used under fair use, and general documentation, you retain full copyright over that item. However, you must also agree to license it under the Creative Commons Attribution ShareAlike License 4.0. [See the LICENSE file for the full text.](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/LICENSE)
 
 The project's license applies only to material for which the project or its contributors hold the necessary rights. It does not grant permission to use Nintendo's trademarks, copyrighted game assets, music, artwork, or other third-party material.
 
