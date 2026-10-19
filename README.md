@@ -79,8 +79,8 @@ If a specific file has a license shown different than the terms expressed here, 
     No permission to copy, distribute, modify, or sublicense these contributions is granted by this notice. 
     Their inclusion in the repository does not constitute authorization for their distribution or use.
 
-## Videos and general documentation
-    This work's videos and general documentation are licensed under 
+## Videos, assets not under fair use, and general documentation
+    This work's videos, assets not under fair use, and general documentation are licensed under 
     Creative Commons Attribution-ShareAlike 4.0 International.
     To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or see the LICENSE file.
 
