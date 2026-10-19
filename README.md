@@ -80,8 +80,6 @@ If a specific file has a license shown different than the terms expressed here, 
     Their inclusion in the repository does not constitute authorization for their distribution or use.
 
 ## Videos and general documentation
-Notice! This license is not active for the project, but is staged for implementation
-
     This work's videos and general documentation are licensed under 
     Creative Commons Attribution-ShareAlike 4.0 International.
     To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or see the LICENSE file.
