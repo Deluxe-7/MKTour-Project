@@ -52,8 +52,8 @@ These are community links that the Preservation Project feels persons may find u
 - [Mario Kart Tour Community Discord](https://discord.gg/mario-kart-tour-community-604712560398434304)
 - [Mario Kart Central - Mario Kart Tour Discord](https://discord.gg/H3Nsdcn)
 - [GooglyBlox's MKT (Offline Modpack)](https://discord.gg/Sqg6wB2UBK)
-- [MKTKV (Offline Modpack)](https://discord.com/channels/604712560398434304/1559861802957803571/1559863042769027103)
-- [DokiTour (Online Modpack)](https://discord.com/channels/604712560398434304/1559699416322150400)
+- MKTKV (Offline Modpack) | Currently unavailable
+- DokiTour (Online Modpack) | Currently unavilable
 - [Mario Kart ReTour (Online Modpack)](https://mkretour.net/)
 
 # DMCA
