@@ -47,14 +47,14 @@ Mario Kart Tour was a game downloaded to over [200 million devices.](https://web
 - [YouTube](https://www.youtube.com/@MKTourPreservation)
 
 ## Community (Not affiliated)
-These are community links that the Preservation Project feels persons may find useful, but are not officially supported or affiliated by or with the preservation project
+These are community links that the Preservation Project feels persons may find useful, but are not officially supported or affiliated by or with the preservation project. The preservation project makes no guarantees to the safety or legality of these community sites and servers.
 - [Open Letter to Nintendo](https://openletter.earth/an-open-letter-to-nintendo-preserve-mario-kart-tour-395dbdd7)
-- Mario Kart Tour Community Discord | Currently Unavailable
+- [Mario Kart Tour Community Discord](https://discord.gg/qk6P2mvp5U)
 - [Mario Kart Central - Mario Kart Tour Discord](https://discord.gg/H3Nsdcn)
 - GooglyBlox's MKT (Offline Modpack) | Currently Unavailable
 - MKTKV (Offline Modpack) | Currently Unavailable
-- DokiTour (Online Modpack) | Currently Unavailable
-- Mario Kart ReTour (Online Modpack) | Currently Unavailable
+- [DokiTour (Online Modpack)](https://discord.gg/qk6P2mvp5U)
+- [Mario Kart ReTour (Online Modpack)](https://discord.gg/HZHUHrHpd3)
 # DMCA
 If at any point the project has violated anyone's copyright law, please send a request to:  MKTourPreservation@proton.me
 In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue promptly. 
