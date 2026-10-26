@@ -6,5 +6,12 @@ This project is currently hosted on the platform GitHub, and we will respect all
 - [GitHub's Takedown Policy](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy)
 
 ## What is the DMCA
-## How will we handle the process
+The Digital Millennium Copyright Act or DMCA 
+
 ## How to submit a request
+- If you wish to send a request through GitHub's team, you can do so [here](https://docs.github.com/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice).
+- If you wish to send your request through us, please send your request to MKTourPreservation@proton.me. In the subject please include [DMCA Request].
+
+First, please feel free to send a request first in an informal email. We have done our best to respect copyright law in this project, and it has been enacted in good faith. Opening a communication line will allow us to address any confusion and where we may have gone wrong. Additionally, contributors come from a variety of backgrounds and may have simply not known of the legal ramifications of what they have uploaded. While not ideal, mistakes do happen, and we would ask to give us the benefit of the doubt.
+
+Second, if you would like to send a formal DMCA takedown notice directed at us, please send it through GitHub, as their team will be better equipped to handle the process.
