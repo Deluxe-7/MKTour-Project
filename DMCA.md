@@ -6,7 +6,7 @@ This project is currently hosted on the platform GitHub, and we will respect all
 - [GitHub's Takedown Policy](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy)
 
 ## What is the DMCA
-The Digital Millennium Copyright Act or DMCA 
+The Digital Millennium Copyright Act or DMCA is law implemented in the late 90's to address legal concerns for copyright holders in relation to digital assets. It provides protections over copying and distributing protected works, and gives copyright holders the ability to issue takedown notices without needing to resort to a lawsuit.
 
 ## How to submit a request
 - If you wish to send a request through GitHub's team, you can do so [here](https://docs.github.com/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice).
