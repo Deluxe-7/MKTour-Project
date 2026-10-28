@@ -8,9 +8,12 @@ Mario Kart Tour, Mario Kart, Super Mario, Mario, and all related characters, nam
 
 The Mario Kart Tour Preservation Project respects the intellectual property rights of all. The project does not authorize or knowingly facilitate the unauthorized distribution of copyrighted game files, assets, or other protected material.
 
-Please do not request, upload, or distribute unauthorized copies of Mario Kart Tour application packages (.apk or .ipa files), Nabe asset archives, or other proprietary game files through project-controlled repositories, channels, or services.
+This is our official piracy notice, and it's included here as it is important. Please do not upload assets, .IPA or .APK files, or other items that could be problematic. We don't want someone to be able to shut down the project due to a legal dispute. Please don't give them a reason to raise one. It is better to have a small collection of details surrounding the game than to have nothing at all.
 
-This policy does not prohibit lawful research, independently developed software, authorized preservation activities, or uses permitted by applicable law. Questions concerning particular preservation methods or tools will be assessed on their individual facts and applicable legal requirements.
+**Prohibited Material**
+- IPAs and APKs
+- Copyrighted material that the project has not determined it has a legal basis to host.
+- Links to external sites that host prohibited material
 
 ## About
 
